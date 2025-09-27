@@ -1,6 +1,6 @@
 # Remote Work in Data Science
 
-This repository contains my data science project originally developed on Kaggle:  https://www.kaggle.com/code/alejandrolpezmoreira/remote-work-in-data-science
+This repository contains my data science project originally developed on Kaggle: ( https://www.kaggle.com/code/alejandrolpezmoreira/remote-work-in-data-science ).
 The goal is to analyze salaries, job titles, and trends in remote work within the data science field, applying data analysis and machine learning techniques.
 
 ## 📂 Contents
